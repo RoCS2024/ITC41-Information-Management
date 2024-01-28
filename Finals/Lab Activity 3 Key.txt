@@ -1,0 +1,31 @@
+create or replace function get_average_commission(
+    in_city in varchar2)
+    return varchar
+    is ave_comm varchar(64);
+    
+    begin         
+        select city || ' : ' || avg(commission) 
+        into ave_comm
+        from salesman
+        group by city
+        having city = in_city;
+        
+        return(ave_comm);
+    end get_average_commission;
+
+
+
+create or replace function get_actual_commission(
+    in_name in varchar2)
+    return varchar2
+    is act_comm varchar(64);
+    
+    begin
+    
+        select name || ' commission is ' || sales * commission
+        into act_comm
+        from salesman 
+        where name = in_name;
+        return(act_comm);
+        
+    end get_actual_commission;

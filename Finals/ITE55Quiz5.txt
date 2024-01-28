@@ -1,0 +1,25 @@
+ITE55 Quiz 5
+
+Directions: Identify the word/s being described in each item. ANY FORM OF ERASURES WILL NULLIFY YOUR ANSWER.
+
+_______________ 1. This refers to the removal of redundant data in the database.
+_______________ 2. This means the value of the determinant decides the value of another attribute.
+_______________ 3. This does not allow dependencies between attributes that belong to candidate keys.
+_______________ 4. This textual representation of semi structured data is widely used for data exchange.
+_______________ 5. This allows specification of mapping between programming language objects and database tuples 
+_______________ 6. This kind of databases store information related to spatial locations, and support efficient storage, indexing and querying of spatial data.
+_______________ 7. This refers to a program running on the server machine that accepts requests from a web browser and sends back results in the form of HTML documents.
+_______________ 8. This application layer interfaces between business logic layer and the underlying database
+_______________ 9. These allow data on Web to be accessed using remote procedure call mechanism
+_______________ 10. This refers to data that arrives in a continuous fashion
+
+1. normalization
+2. functional dependencies
+3. boyce-codd normal form
+4. json
+5. object relational mapping
+6. spatial databases
+7. web server
+8. data access layer
+9. web services
+10. streaming

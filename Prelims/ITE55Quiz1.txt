@@ -1,0 +1,25 @@
+ITE55 Quiz 1
+
+Directions: Identify the word/s being described in each item. ANY FORM OF ERASURES WILL NULLIFY YOUR ANSWER.
+
+_______________ 1. This refers to collection of data
+_______________ 2. This level of abstraction exists to simplify user interaction with the system.
+_______________ 3. This refers to the overall design of the database
+_______________ 4. This referes to the actual content of the database at a particular point in time 
+_______________ 5. This is a statement requesting the retrieval of information. 
+_______________ 6. This is a person who has central control over the database management system 
+_______________ 7. This term is also referred to rows or records
+_______________ 8. This refers to the column or field of a table
+_______________ 9. This provides the ability to query information from the database and to insert tuples into, delete tuples from, and modify tuples in the database.
+_______________ 10. This provides commands for defining relation schemas, deleting relations, and modifying relation schemas.
+
+1. database
+2. view level
+3. schema
+4. instance
+5. query
+6. database administrator
+7. tuple
+8. attribute
+9. data manipulation language
+10. data definition language

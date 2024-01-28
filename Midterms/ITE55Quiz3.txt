@@ -1,0 +1,25 @@
+ITE55 Quiz 1
+
+Directions: Identify the word/s being described in each item. ANY FORM OF ERASURES WILL NULLIFY YOUR ANSWER.
+
+_______________ 1. This is a join operation that produces the Cartesian product of two tables
+_______________ 2. This refers to virtual tables formed by a query
+_______________ 3. This constraint type prohibits the insertion of a null value for the attribute
+_______________ 4. This constraint can be used to specify a wide range of rules for the contents of a table.
+_______________ 5. This sql contains data type year, month, and day of the month.
+_______________ 6. This keyword sets the default value of an attribute
+_______________ 7. This refers to a collection of database objects
+_______________ 8. This is an attribute of a relation is a data structure that allows the database system to find those tuples in the relation that have a specified value for that attribute efficiently, without scanning through all the tuples of the relation.
+_______________ 9. This keyword can be put in a statement to be used to confer authorization.
+_______________ 10. This design approach models an enterprise as a collection of entities and relationships.
+
+1. cross join
+2. views
+3. null constraints
+4. check constraints
+5. date
+6. default
+7. schema
+8. index
+9. grant
+10. ERM/ERD
